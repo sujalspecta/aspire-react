@@ -29,7 +29,7 @@ const PricingSection = () => {
                                         <li>Consectetur venenatis penatibus primis tristique</li>
                                         <li>Massa arcu sociosqu nascetur magna parturient</li>
                                         <li>Ad in nullam libero commodo magnis tristique</li>
-                                        <li>Elit class porta interdum commodo nisi sociosqu</li>
+                                        <li>Elit className porta interdum commodo nisi sociosqu</li>
                                         <li>Ad fusce habitasse mauris platea faucibus</li>
                                         <li>Luctus luctus quisque semper ipsum</li>
                                         <li>Senectus non tristique ipsum orci tristique</li>
@@ -59,7 +59,7 @@ const PricingSection = () => {
                                         <li>Consectetur venenatis penatibus primis tristique</li>
                                         <li>Massa arcu sociosqu nascetur magna parturient</li>
                                         <li>Ad in nullam libero commodo magnis tristique</li>
-                                        <li>Elit class porta interdum commodo nisi sociosqu</li>
+                                        <li>Elit className porta interdum commodo nisi sociosqu</li>
                                         <li>Ad fusce habitasse mauris platea faucibus</li>
                                         <li>Luctus luctus quisque semper ipsum</li>
                                         <li>Senectus non tristique ipsum orci tristique</li>
@@ -68,28 +68,28 @@ const PricingSection = () => {
                                     <p className="pricing-note">* Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</p>
                                 </div>
                             </div>
-                            <div class="col order-lg-3 order-md-2 order-3">
-                            <div class="card card-pricing">
-                                <h3 class="secondary-accent">Enterprise</h3>
+                            <div className="col order-lg-3 order-md-2 order-3">
+                            <div className="card card-pricing">
+                                <h3 className="secondary-accent">Enterprise</h3>
                                 <p>Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</p>
-                                <div class="card price-container">
-                                    <div class="price-wrapper">
-                                        <span class="price">$199</span>
-                                        <span class="price-detail">Per Month</span>
+                                <div className="card price-container">
+                                    <div className="price-wrapper">
+                                        <span className="price">$199</span>
+                                        <span className="price-detail">Per Month</span>
                                     </div>
                                 </div>
-                                <h4 class="secondary-accent">Features</h4>
-                                <ul class="circle-notch-list">
+                                <h4 className="secondary-accent">Features</h4>
+                                <ul className="circle-notch-list">
                                     <li>Consectetur venenatis penatibus primis tristique</li>
                                     <li>Massa arcu sociosqu nascetur magna parturient</li>
                                     <li>Ad in nullam libero commodo magnis tristique</li>
-                                    <li>Elit class porta interdum commodo nisi sociosqu</li>
+                                    <li>Elit className porta interdum commodo nisi sociosqu</li>
                                     <li>Ad fusce habitasse mauris platea faucibus</li>
                                     <li>Luctus luctus quisque semper ipsum</li>
                                     <li>Senectus non tristique ipsum orci tristique</li>
                                 </ul>
-                                <a href="#" class="btn btn-accent">Choose Package</a>
-                                <p class="pricing-note">* Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</p>
+                                <a href="#" className="btn btn-accent">Choose Package</a>
+                                <p className="pricing-note">* Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</p>
                             </div>
                         </div>
                         </div>
